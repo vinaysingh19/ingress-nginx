@@ -6,10 +6,10 @@ entries:
         - Removes the possibility of using localhost in ExternalNames as endpoints
     apiVersion: v2
     appVersion: 0.46.0
-    created: "2021-05-21T14:02:11.217928511+05:30"
+    created: "2021-05-21T14:32:14.090555215+05:30"
     description: Ingress controller for Kubernetes using NGINX as a reverse proxy
       and load balancer
-    digest: b06b18282a3b5bd0c75ba56937193ece5b927d45a9b898a7967eff9721027af1
+    digest: 5e2f0c14f74b42f7096a4350178e0e10258bb10574c2aa7ef0b1e6ba78f5e8ad
     home: https://github.com/kubernetes/ingress-nginx
     icon: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png
     keywords:
@@ -25,4 +25,4 @@ entries:
     urls:
     - https://github.com/vinaysingh19/ingress-nginx/ingress-nginx-3.31.0.tgz
     version: 3.31.0
-generated: "2021-05-21T14:02:11.207389088+05:30"
+generated: "2021-05-21T14:32:14.079533479+05:30"
