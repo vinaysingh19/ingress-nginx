@@ -507,7 +507,7 @@ controller:
       # clusterIP: ""
       externalIPs: []
       # loadBalancerIP: ""
-      loadBalancerSourceRanges: []
+      loadBalancerSourceRanges: [17.17.17.17/32]
       servicePort: 443
       type: ClusterIP
 
